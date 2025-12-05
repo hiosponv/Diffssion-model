@@ -38,4 +38,5 @@ GPU温度
 <img width="1161" height="308" alt="image" src="https://github.com/user-attachments/assets/b8215388-c0eb-4877-b820-b059a9b83d86" />
 
 CPU利用率
-![Uploading image.png…]()
+<img width="1161" height="333" alt="image" src="https://github.com/user-attachments/assets/62ea529c-0af7-4677-b16f-49a801dd34ce" />
+
